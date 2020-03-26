@@ -6,10 +6,22 @@ public class main {
         C1.addItem(D1);
         C1.addItem(D2);
         C1.print();
+
         CatalogOperations serializer=new CatalogOperations();
         serializer.save(C1,"salvare1");
+
+        View v1 = new View();
+
         Catalog C2;
         C2=serializer.load("salvare1");
+
+        Save s1=new Save();
+        s1.save(C1,"salvare2");
+        Load l1=new Load();
+
+        Catalog C3;
+        C3=l1.load("salvare2");
+
 
     }
 

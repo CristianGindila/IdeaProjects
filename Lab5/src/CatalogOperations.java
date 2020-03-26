@@ -41,8 +41,25 @@ public class CatalogOperations{
         Catalog object1 = null;
         return  object1;
     }
-    public void view(String filaname)
+    public void view(String filename)
     {
+        try
+        {
+            FileInputStream fis = new FileInputStream(filename);
+            ObjectInputStream in = new ObjectInputStream(fis);
+            Catalog catalog = (Catalog)in.readObject();
+            fis.close();
+            catalog.print();
+        }
 
+        catch(IOException ex)
+        {
+            System.out.println(ex);
+        }
+
+        catch(ClassNotFoundException ex)
+        {
+            System.out.println(ex);
+        }
     }
 }

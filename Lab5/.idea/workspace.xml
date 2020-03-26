@@ -26,13 +26,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\crist\IdeaProjects\Lab5\src" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\IdeaProjects\Lab5" />
+      <recent name="C:\Users\crist\IdeaProjects\Lab5\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\IdeaProjects\Lab5\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -67,33 +72,37 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="185" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1584523999709" />
+    <state x="564" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585205464584">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="564" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1585205464584" />
     <state x="605" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1584526873234">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1584526873234" />
-    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584524748219">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585206628951">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1584524748219" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1584540432658">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1585206628951" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585207886109">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584540432658" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1584540432658">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585207886109" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585207886109">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584540432658" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1584540432658">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585207886109" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585207886109">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584540432658" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1584540432658">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585207886109" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585207886109">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584540432658" />
-    <state x="182" y="50" key="new project wizard" timestamp="1584531497919">
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585207886109" />
+    <state x="182" y="50" key="new project wizard" timestamp="1585207884445">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1584531497919" />
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1585207884445" />
   </component>
 </project>
