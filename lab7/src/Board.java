@@ -1,23 +1,26 @@
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Board {
-
-    List<Token> list = new LinkedList<Token>();
-
-    public List<Token> getList() {
-        return list;
+    private List<Token> tokenList=new ArrayList<>();
+    public Board(int n, int m){
+        for (int i=0; i<n; i++)
+            tokenList.add(new Token((int)(Math.random()*m)+1));
     }
 
-    public void setList(List<Token> list) {
-        this.list = list;
+    public Board(List<Token> tokenList) {
+        this.tokenList = tokenList;
     }
 
-
-
-    public void addItem(Token item){
-        list.add(item);
+    public List<Token> getTokenList() {
+        return tokenList;
     }
 
-
+    public synchronized Token getToken(){
+        if (tokenList.isEmpty())
+            return null;
+        Token token=tokenList.get(0);
+        tokenList.remove(token);
+        return token;
+    }
 }
