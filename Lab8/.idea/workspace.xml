@@ -17,6 +17,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1aIf1L17z2gCwW57kVP1ov7LyAy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,8 +33,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Lab8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="config1" type="JUnit" factoryName="JUnit">
+      <module name="Lab8" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="Lab8" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
@@ -46,6 +76,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.config1" />
+      <item itemvalue="Plugin.Plugin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,5 +99,71 @@
       <updated>1586427812609</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="92" key="#Project_Structure" timestamp="1586931278493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="92" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1586931278493" />
+    <state x="390" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587019593935">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="390" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1587019593935" />
+    <state x="605" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1587023615868">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1587023615868" />
+    <state x="665" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587019590070">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="665" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1587019590070" />
+    <state x="530" y="177" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587032311838">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.860@0.0.1600.860" timestamp="1587032311838" />
+    <state x="397" y="85" key="#config1" timestamp="1587019600484">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="85" key="#config1/0.0.1600.860@0.0.1600.860" timestamp="1587019600484" />
+    <state x="980" y="188" key="FileChooserDialogImpl" timestamp="1586931251970">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="980" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586931251970" />
+    <state width="1557" height="221" key="GridCell.Tab.0.bottom" timestamp="1587032510449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587032510449" />
+    <state width="1557" height="221" key="GridCell.Tab.0.center" timestamp="1587032510449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587032510449" />
+    <state width="1557" height="221" key="GridCell.Tab.0.left" timestamp="1587032510449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587032510449" />
+    <state width="1557" height="221" key="GridCell.Tab.0.right" timestamp="1587032510449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587032510449" />
+    <state width="1554" height="275" key="GridCell.Tab.1.bottom" timestamp="1586940130391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1554" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586940130391" />
+    <state width="1554" height="275" key="GridCell.Tab.1.center" timestamp="1586940130391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1554" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586940130391" />
+    <state width="1554" height="275" key="GridCell.Tab.1.left" timestamp="1586940130390">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1554" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586940130390" />
+    <state width="1554" height="275" key="GridCell.Tab.1.right" timestamp="1586940130391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1554" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586940130391" />
+    <state x="182" y="38" key="new project wizard" timestamp="1587032489705">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="38" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1587032489705" />
   </component>
 </project>
